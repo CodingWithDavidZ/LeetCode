@@ -30,7 +30,7 @@
             >
       - [ ] *Outputs:*
             >
-6. - [ ] **Concrete Examples:**
+6. - [ ] **Concrete Examples:**  
       	- [ ] **Simple Examples:**
         + - [ ] *Input 1:*
             >
