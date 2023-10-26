@@ -12,9 +12,9 @@
 
 ## **Understanding the Problem:**
 1. - [ ] **Can I restate the problem in my own words:**
-    >
+    > test
 2. - [ ] **What inputs go into the problem:**
-    >
+    > test 2
 3. - [ ] **What is the expected output:**
       - [ ] *Data type:*
       - [ ] *Example:*
