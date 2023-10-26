@@ -9,7 +9,8 @@
 ```
 ```
 ***
-##**Understanding the Problem:**
+
+## **Understanding the Problem:**
 1. - [ ] **Can I restate the problem in my own words:**.
 2. - [ ] **What inputs go into the problem:**
 3. - [ ] **What is the expected output:**
