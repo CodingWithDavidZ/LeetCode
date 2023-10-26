@@ -11,8 +11,12 @@
 ***
 
 ## **Understanding the Problem:**
-1. - [ ] **Can I restate the problem in my own words:**.
+1. - [ ] **Can I restate the problem in my own words:**
+    ```
+    ```
 2. - [ ] **What inputs go into the problem:**
+    ```
+    ```
 3. - [ ] **What is the expected output:**
       - [ ] *Data type:*
       - [ ] *Example:*
@@ -35,7 +39,7 @@
       	+ - [ ] *Output:*
 7. - [ ] **Edge Cases: (NaN, Null, Error, Not Found, etc…)**
 8. - [ ] **Break It Down Step-by-step:**
-9. - [ ] **Can You Solve This Problem:**
+9.  - [ ] **Can You Solve This Problem:**
       - [ ] *Yes, Do it*
       - [ ] *No, What simpler problems can you solve?*
 10. - [ ] **REFACTOR AND CLEAN UP!!!**
