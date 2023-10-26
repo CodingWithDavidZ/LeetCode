@@ -18,7 +18,7 @@
 3. - [ ] **What is the expected output:**
       + - [ ] *Data type:*
             >
-      + - [ ] *Example:*  
+      + - [ ] *Example:*
             >
 4. - [ ] **Can the output be determined from the input:**
 5. - [ ] **How should I label the data:**
