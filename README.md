@@ -15,16 +15,16 @@
       - [ ] **Variables:**
       - [ ] **Outputs:**
 6. - [ ] **Concrete Examples:**
-	- [ ] **Simple Examples:**
-    + - [ ] Input 1:
-	+ - [ ] Output 1:
-	+ - [ ] Input 2:
-	+ - [ ] Output 2:
-    + - [ ] Input 3:
-	+ - [ ] Output 3:
-	- [ ] **Complex Examples:**
-	+ - [ ] Input:
-	+ - [ ] Output:
+      	- [ ] **Simple Examples:**
+        + - [ ] Input 1:
+      	+ - [ ] Output 1:
+      	+ - [ ] Input 2:
+      	+ - [ ] Output 2:
+        + - [ ] Input 3:
+      	+ - [ ] Output 3:
+      	- [ ] **Complex Examples:**
+      	+ - [ ] Input:
+      	+ - [ ] Output:
 7. - [ ] **Edge Cases: (NaN, Null, Error, Not Found, etc…)**
 8. - [ ] **Break It Down Step-by-step:**
 9. - [ ] **Can You Solve This Problem:**
