@@ -16,21 +16,21 @@
 2. - [ ] **What inputs go into the problem:**
     >
 3. - [ ] **What is the expected output:**
-      - [ ] *Data type:*
+      + - [ ] *Data type:*
             >
-      - [ ] *Example:*
+      + - [ ] *Example:*  
             >
 4. - [ ] **Can the output be determined from the input:**
 5. - [ ] **How should I label the data:**
-      - [ ] *Function Names:*
+      + - [ ] *Function Names:*
             >
-      - [ ] *Inputs:*
+      + - [ ] *Inputs:*
             >
-      - [ ] *Variables:*
+      + - [ ] *Variables:*
             >
-      - [ ] *Outputs:*
+      + - [ ] *Outputs:*
             >
-6. - [ ] **Concrete Examples:**  
+6. - [ ] **Concrete Examples:**
       	- [ ] **Simple Examples:**
         + - [ ] *Input 1:*
             >
