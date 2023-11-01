@@ -22,7 +22,7 @@ Return the merged string.
       + - [x] *Example:*  
             > (hello) (world) hweolrllod
 4. - [x] **Can the output be determined from the input:**  
-            > Yes
+    > Yes, the output can be determined from the input      
 5. - [ ] **How should I label the data:**
       + - [x] *Function Names:*
             > mergeAlternately
