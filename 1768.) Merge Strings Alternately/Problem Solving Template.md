@@ -21,7 +21,7 @@ Return the merged string.
             > One String with a combination of letters from each word
       + - [x] *Example:*  
             > (hello) (world) hweolrllod
-4. - [x] **Can the output be determined from the input:**
+4. - [x] **Can the output be determined from the input:**  
             > Yes
 5. - [ ] **How should I label the data:**
       + - [x] *Function Names:*
