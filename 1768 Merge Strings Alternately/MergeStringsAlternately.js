@@ -17,3 +17,6 @@ function mergeAlternately(word1, word2) {
 }
 
 console.log(mergeAlternately("Twitch", "Streaming"))
+
+//Time Complexity: O(n) - linear
+//Space Complexity: O(n) - linear
