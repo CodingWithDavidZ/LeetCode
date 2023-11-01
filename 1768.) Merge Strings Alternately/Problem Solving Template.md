@@ -27,28 +27,28 @@ Return the merged string.
       + - [x] *Function Names:*
             > mergeAlternately
       + - [x] *Inputs:*
-            > word1
+            > word1  
             > word2
       + - [x] *Variables:*
-            > result
-            > i
+            > result  
+            > i  
             > j
       + - [x] *Outputs:*
             > returned string
 6. - [ ] **Concrete Examples:**
       	- [x] **Simple Examples:**
         + - [x] *Input 1:*
-            > bottle
+            > bottle  
             > ham
       	+ - [x] *Output 1:*
             > bhoatmtle
       	+ - [x] *Input 2:*
-            > twitch
+            > twitch  
             > streaming
       	+ - [x] *Output 2:*
             > tswtirtecahming
         + - [x] *Input 3:*
-            > first
+            > first  
             > content
       	+ - [x] *Output 3:*
             > fciornstent
@@ -58,9 +58,9 @@ Return the merged string.
       	+ - [ ] *Output:*
             >
 7. - [x] **Edge Cases: (NaN, Null, Error, Not Found, etc…)**
-    > hyphenated words
-      - Could sanitize the inputs
-    > more than one word per input
+    > hyphenated words  
+      - Could sanitize the inputs  
+    > more than one word per input  
       - Either add the whitespace or sanitize the inputs
 8. - [x] **Break It Down Step-by-step:**
     - create a while loop that will run until both words are empty by incrementing the word.length until it is equal to the length of the word.
